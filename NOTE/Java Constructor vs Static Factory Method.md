@@ -1,4 +1,4 @@
-# Constructors vs Static Factory Methods
+# Java Constructor vs Static Factory Method
 
 Java의 Constructor는 fully-initialized된 class instance를 생성하는
 기본적인 메커니즘이다. 이를 통해 필요한 모든 dependency를 주입해준다 (수동/자동으로)

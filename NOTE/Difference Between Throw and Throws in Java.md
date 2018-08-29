@@ -1,4 +1,4 @@
-#Throw & Throws
+#Difference Between Throw and Throws in Java
 Exception은 애플리케이션의 normal flow가 interrupt 되었을 때 발생한다.
 throw 키워드는 명시적으로 예외를 던질 때 사용한다. 어떠한 메서드나 static block 안에서 사용할 수 있다.
 그리고 이렇게 던져지는 예외는 Throwable의 subclass여야 한다.(혹은 그 자체이거나)

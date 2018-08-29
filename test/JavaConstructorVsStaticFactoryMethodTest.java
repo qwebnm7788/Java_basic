@@ -8,7 +8,7 @@ import java.util.logging.SimpleFormatter;
 
 import static org.junit.Assert.*;
 
-public class StaticFactoryMethodTest {
+public class JavaConstructorVsStaticFactoryMethodTest {
     @Test
     public void createUserWithStaticFactoryTest() {
         User user = User.createWithDefaultCountry("Jaewon", "qwebnm");

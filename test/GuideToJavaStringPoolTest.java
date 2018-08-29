@@ -2,7 +2,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-public class JavaStringTest {
+public class GuideToJavaStringPoolTest {
     @Test
     public void InterningTest() {
         String constantString1 = "Jaewon";
