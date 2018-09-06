@@ -1,7 +1,7 @@
-#Polymorphism in Java
+# Polymorphism in Java
 polymorphism의 가장 핵심적인 두 가지 타입은 static/compile-time polymorphism과 dynamic/runtime polymorphism이 있다.
 
-##Static Polymorphism
+## Static Polymorphism
 static polymorphism은 compile time에 resolve되어 run-time virtual-table lookup을 제거한 polymorphism이라고 할 수 있다.
 
 ```java

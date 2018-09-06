@@ -1,4 +1,4 @@
-#Access Modifier in Java
+# Access Modifier in Java
 access modifier는 클래스, 변수, 메서드, 생성자에 대한 access level을 설정할 때 사용한다.
 여기에는 public, private, protected, default 총 4가지가 존재한다. top-level class에는 public, default만 사용할 수 있으며
 member level에서는 4개 모두 사용할 수 있다.

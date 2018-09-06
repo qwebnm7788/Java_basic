@@ -1,4 +1,4 @@
-#Immutable Objects in Java
+# Immutable Objects in Java
 Immutable object는 생성 이후 내부 상태가 변하지 않는 객체를 말한다.
 이것을 좀 더 자세히 말하자면 이러한 객체는 public API로 자신의 상태를 수정하는 기능을 제공하지 않는다.
 예를 들어 String.replace() 메서드는 자신을 수정하는 것처럼 보이지만 실제로는 수정하지 않고 새로운 객체를 만들어 반환한다.

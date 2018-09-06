@@ -1,4 +1,4 @@
-#Stack Memory and Heap space in Java
+# Stack Memory and Heap space in Java
 새로운 변수나 객체를 선언하거나, 메서드를 호출하는 것 등의 작업을 하게 되면 JVM은 이러한 작업들을
 Stack Memory나 Heap Space에 할당하게 된다.
 

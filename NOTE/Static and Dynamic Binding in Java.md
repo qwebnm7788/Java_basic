@@ -1,4 +1,4 @@
-#Static and Dynamic Binding in Java
+# Static and Dynamic Binding in Java
 Polymorphism을 통해 한 객체는 여러가지 형태에 mapping될 수 있는데 method가 다형성을 띈다면
 컴파일러가 해당 메서드를 특정 implementation으로 연결시켜주어야 하는데
 만약 이 과정이 compile time에 일어난다면 static or early binding이라고 하며

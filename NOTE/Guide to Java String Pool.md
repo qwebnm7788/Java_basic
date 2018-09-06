@@ -1,4 +1,4 @@
-#Guide to Java Spring Pool
+# Guide to Java Spring Pool
 
 Java String Pool이란 JVM에 의해 Strings가 저장되는 특별한 메모리 공간을 말한다.
 
